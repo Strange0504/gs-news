@@ -1,0 +1,1 @@
+export default function Blog() { return <div>Sample Blog Page</div>; }
